@@ -9,6 +9,7 @@ public class ContaTeste {
 
 		ContaBanco p1 = new ContaBanco();
 
+		System.out.println("Teste Integração GitHub Eclipse");
 		System.out.print("Entre com o número da conta: ");
 		p1.numConta = ent.nextInt();
 
